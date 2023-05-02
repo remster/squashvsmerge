@@ -15,4 +15,6 @@ feature A.2
 
 line three
 
-Feature F
+Feature F.1
+
+Feature F.2

@@ -16,3 +16,12 @@ feature A.2
 line three
 
 feature G
+
+Feature F.1
+
+Feature F.2
+
+Feature Z
+
+Feature G
+

@@ -1,3 +1,2 @@
 a
-external feature
 z

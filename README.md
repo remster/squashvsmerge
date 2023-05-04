@@ -1,3 +1,6 @@
 a
-external feature
+b
+c
+another external feature
 z
+

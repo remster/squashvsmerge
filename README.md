@@ -1,4 +1,3 @@
 a
-d
-z
-external commit
+b
+c

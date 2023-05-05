@@ -1,5 +1,5 @@
 a
-from branch
 from trunk
+from branch
 b
 c

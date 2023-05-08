@@ -1,6 +1,5 @@
 a
-from branch
 from trunk
-form trunk again
+from branch again
 b
 c
